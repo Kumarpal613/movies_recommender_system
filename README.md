@@ -89,21 +89,5 @@ A user-friendly web application is built using Streamlit, allowing users to:
 * Implement collaborative filtering techniques alongside content-based methods.
 * Deploy the application to a cloud platform for broader accessibility.
 
-## Author
-
-* [Your Name/GitHub Username](https://github.com/Kumarpal613)
-
-## License (Optional)
-
-*(Optional: Add a license file (e.g., MIT License) and mention it here.)*
-
----
-
-**Key changes made:**
-
-* Added a dedicated section for **Data Source** with a link to the Kaggle dataset.
-* Updated the **Data Preprocessing** section to specifically mention the TMDb dataset.
-* Modified the **Setup and Running the Application** section to include instructions on downloading the dataset from Kaggle and placing it in the project directory.
-* Adjusted the **Usage** section to reflect that the movies are sourced from the TMDb dataset.
 
 Remember to replace `your_streamlit_app_file.py` with the actual name of your Streamlit application file. This updated `README.md` provides more specific information about the data source used in your project.
