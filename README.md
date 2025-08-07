@@ -87,7 +87,7 @@ A user-friendly web application is built using Streamlit, allowing users to:
 * Explore using other features from the TMDb dataset (e.g., genres, keywords) for more comprehensive content-based recommendations.
 * Integrate user ratings or feedback (if you plan to incorporate other datasets or functionalities).
 * Implement collaborative filtering techniques alongside content-based methods.
-* Deploy the application to a cloud platform for broader accessibility.
+
 
 
 Remember to replace `your_streamlit_app_file.py` with the actual name of your Streamlit application file. This updated `README.md` provides more specific information about the data source used in your project.
