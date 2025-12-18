@@ -72,9 +72,8 @@ A user-friendly web application is built using Streamlit, allowing users to:
 
 4.  **Run the Streamlit application:**
     ```bash
-    streamlit run your_streamlit_app_file.py
+    streamlit run app.py
     ```
-    *(Replace `your_streamlit_app_file.py` with the actual name of your Streamlit application file.)*
 
 ## Usage
 
